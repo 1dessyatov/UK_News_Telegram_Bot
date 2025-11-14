@@ -1,6 +1,9 @@
-**Title:** UK News Telegram Bot.\n
+**Title:** UK News Telegram Bot.
+
 **Brief overview:** An automated system for delivering curated news articles sourced from leading online publications.
+
 **Main features:**
+
 * PERSONALIZED news delivery by subscription
 * Secure MySQL database for news articles, and user data
 * Web scrapping of the biggest UK news websites using BeautifulSoup
@@ -16,6 +19,7 @@
 * asyncio - library for running asynchronous functions
 * mysql - library to operate MySQL database
 * bcrypt - library for user password hashing
+* 
 **Getting started:**
 
 ### Prerequisites
@@ -69,6 +73,7 @@ Execute the main script to start the bot:
 The bot is now running and will begin the hourly news scraping task in the background. Open Telegram and start interacting with your bot by sending the /start command!
 
 **Main telegram bot commands:**
+
 /start - Begin interaction with the bot
 /login - Log in to your account
 /register - Create a new account
