@@ -1,0 +1,9 @@
+os #Library to work with .env
+dotenv #Library to import variables from .env file
+bs4 # Library for web scraping
+requests  # To send HTTP requests
+telegram   # Telegram bot API imports
+telegram.ext   # Telegram bot framework
+asyncio  # To run asynchronous functions
+mysql.connector  # MySQL database connection
+bcrypt # Password hashing
