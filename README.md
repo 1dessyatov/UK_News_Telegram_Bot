@@ -1,4 +1,4 @@
-**Title:** UK News Telegram Bot.
+**Title:** UK News Telegram Bot.\n
 **Brief overview:** An automated system for delivering curated news articles sourced from leading online publications.
 **Main features:**
 * PERSONALIZED news delivery by subscription
